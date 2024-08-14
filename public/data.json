@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "course_name": "Introduction to MySql",
+      "course_details": "Learn the basics of MySql, including database, query, and fetch data.",
+      "course_price": 49.99,
+      "course_img": "https://i.ibb.co/WtLHJb3/mysql.png",
+      "course_credit": 3
+    },
+    {
+      "id": 2,
+      "course_name": "C Programming Essentials",
+      "course_details": "A comprehensive course covering core C Programming concepts and programming paradigms.",
+      "course_price": 59.99,
+      "course_img": "https://i.ibb.co/7CQxHyR/cprogramming.webp",
+      "course_credit": 4
+    },
+    {
+      "id": 3,
+      "course_name": "Algorithm",
+      "course_details": "Advanced Algorithm techniques, including multithreading, concurrency, and data structures.",
+      "course_price": 79.99,
+      "course_img": "https://i.ibb.co/rm4Kx36/algorithmimg.png",
+      "course_credit": 5
+    },
+    {
+      "id": 4,
+      "course_name": "C++",
+      "course_details": "A comprehensive course C++ Programming concepts and programming paradigms.",
+      "course_price": 39.99,
+      "course_img": "https://i.ibb.co/ckn5Tdh/c.png",
+      "course_credit": 2
+    },
+    {
+      "id": 5,
+      "course_name": "Software Engineering Division",
+      "course_details": "Explore data analysis, visualization, and machine learning using R programming language.",
+      "course_price": 89.99,
+      "course_img": "https://i.ibb.co/zsmQzLJ/softwareengineer.jpg",
+      "course_credit": 6
+    },
+    {
+      "id": 6,
+      "course_name": "C++ for Beginners",
+      "course_details": "An introductory course to C++ programming, focusing on fundamental concepts and syntax.",
+      "course_price": 44.99,
+      "course_img": "https://i.ibb.co/V24kJY9/c-for-b.png",
+      "course_credit": 3
+    },
+    {
+      "id": 7,
+      "course_name": "Python OOP",
+      "course_details": "Understand AWS learning concepts and implement them using TensorFlow and Keras.",
+      "course_price": 99.99,
+      "course_img": "https://i.ibb.co/mySQj4W/oop-python.jpg",
+      "course_credit": 8
+    },
+    {
+      "id": 8,
+      "course_name": "AWS",
+      "course_details": "Use Python libraries like pandas and NumPy to analyze and manipulate data efficiently.",
+      "course_price": 69.99,
+      "course_img": "https://i.ibb.co/7rHjwW5/aws.png",
+      "course_credit": 5
+    },
+    {
+      "id": 9,
+      "course_name": "Data Structure",
+      "course_details": "Understand Data Structure learning concepts and implement them using TensorFlow and Keras.",
+      "course_price": 129.99,
+      "course_img": "https://i.ibb.co/yfYC6h7/datastructure.jpg",
+      "course_credit": 7
+    }
+  ]
+  
